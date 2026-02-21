@@ -28,7 +28,7 @@ metadata:
     app: sample-np-app
 spec:
   selector:
-    app: sample-deploy-lbl
+    app: sample-app
 
   type: NodePort
   ports:
