@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sample-container
-        image: ram8243/ramdevops
+        image: ram8243/static-web-app
         ports:
         - containerPort: 8080
 ---
